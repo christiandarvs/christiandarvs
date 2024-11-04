@@ -1,5 +1,5 @@
 ﻿<h1 align="center">Hi, I'm Christian Elijah Darvin <img height="40" src="https://cdn3.emoji.gg/emojis/8772_popcat.gif"></h1>
-<h3 align="center">Junior Computer Science</h3>
+<h3 align="center">Junior Computer Science Student</h3>
 
 <!-- - 🔭 I’m currently working on my **Mathematics for Machine Learning and Data Science Specialization** in [Coursera](https://www.coursera.org/specializations/mathematics-for-machine-learning-and-data-science?irgwc=1&utm_medium=partners&utm_source=impact&utm_campaign=3317930&utm_content=b2c) -->
 
